@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
+	<string>0CDAA35B-7ADD-4EB6-844A-772750F88B19</string>
+=======
+	<string>7149A3DF-B535-4505-A6E0-6B29B26EDADC</string>
+>>>>>>> origin/master
+	<key>IDESourceControlProjectName</key>
+	<string>OneByOne</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4A546AA40A1C15532CC16F0A64289EC39010F2E9</key>
+		<string>https://github.com/feifei-123/OneByOne.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OneByOne.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4A546AA40A1C15532CC16F0A64289EC39010F2E9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/feifei-123/OneByOne.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4A546AA40A1C15532CC16F0A64289EC39010F2E9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4A546AA40A1C15532CC16F0A64289EC39010F2E9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OneByOne</string>
+		</dict>
+	</array>
+</dict>
+</plist>

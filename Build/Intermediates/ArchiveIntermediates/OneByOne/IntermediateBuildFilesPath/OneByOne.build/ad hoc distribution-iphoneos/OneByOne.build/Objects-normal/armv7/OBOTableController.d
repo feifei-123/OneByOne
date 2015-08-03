@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/Home/Controller/OBOTableController.m \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/Home/Controller/OBOTableController.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/Home/Controller/OBOFatherController.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/View/OBOSearchBar.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/View/OBOCustumItem.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Lib/MJRefresh/MJRefresh.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Lib/MJRefresh/UIScrollView+MJRefresh.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Lib/MJRefresh/MJRefreshConst.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Lib/MJRefresh/MJRefreshGifHeader.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Lib/MJRefresh/MJRefreshHeader.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Lib/MJRefresh/MJRefreshComponent.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Lib/MJRefresh/MJRefreshLegendHeader.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Lib/MJRefresh/MJRefreshGifFooter.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Lib/MJRefresh/MJRefreshFooter.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Lib/MJRefresh/MJRefreshLegendFooter.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Constants.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Other/OBOStringTools.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Category/UIColor+Hex.h

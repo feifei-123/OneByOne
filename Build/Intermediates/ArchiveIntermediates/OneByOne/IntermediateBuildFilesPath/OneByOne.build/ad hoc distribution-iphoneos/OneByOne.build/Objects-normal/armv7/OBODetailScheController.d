@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/Home/Controller/OBODetailScheController.m \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/Home/Controller/OBODetailScheController.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/Home/Controller/OBOFatherController.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Other/OBOCommonDelegate.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Other/OBOStringTools.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/Home/Controller/OBONewScheController.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/View/CustomPopActionView.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Utils.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/AppDelegate.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Lib/JTCalendar/OBOCalenderView.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Lib/JTCalendar/JTCalendar.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Lib/JTCalendar/JTCalendarViewDataSource.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Lib/JTCalendar/JTCalendarAppearance.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Lib/JTCalendar/JTCalendarMenuView.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Lib/JTCalendar/JTCalendarContentView.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Lib/JTCalendar/JTCalendarDataCache.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Lib/JTCalendar/OBOCalenderMenuBar.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Model/Events.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Constants.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Category/UIColor+Hex.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Controller/OBONavigationController.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/Home/View/OBODetailTimeView.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/Home/View/OBODetailButton.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/Home/View/OBONoHLButton.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/View/RATMenu.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/View/OBOVerticallyAlignedLabel.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/DAO/OBODataBase.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Category/UIImage+stretch.h \
+  /Users/baixuefei/Desktop/workspace/github/OneByOne/OneByOne/CommonUtils/Category/NSDate+helper.h
